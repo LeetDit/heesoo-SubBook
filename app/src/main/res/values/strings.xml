@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">heesoo-SubBook</string>
+    <string name="add_button">Add Subscription</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_date">Enter Date (yyyy-mm-dd)</string>
+    <string name="enter_charge">Enter Charge</string>
+    <string name="enter_comment">Enter Comment</string>
+    <string name="save_button">Save</string>
+    <string name="clear_button">Clear</string>
+    <string name="newitem">New Item</string>
+    <string name="delete_button">Delete</string>
+    <string name="view_button">View</string>
+</resources>
